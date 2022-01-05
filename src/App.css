@@ -86,6 +86,7 @@
   position: relative;
   display: grid;
   align-content: center;
+ 
 }
 
 .email .star-checkbox:focus {
